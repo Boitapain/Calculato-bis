@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Calculato-bis
-//
-//  Created by Vincent Bullion on 13/11/2024.
-//
-
 import SwiftUI
 
 struct ContentView: View {
